@@ -3,10 +3,10 @@ name: shell commands
 on:
   # Triggers the workflow every 5 minutes
   schedule:
-    - run-shell-command: "*/2 * * * *"
+    - cron: "*/2 * * * *"
 
 jobs:
-  run-shell-command:
+  cron:
     runs-on: ubuntu-latest
     steps:
       - name: echo a string
