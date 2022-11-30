@@ -3,7 +3,7 @@ name: shell commands
 on:
   # Triggers the workflow every 5 minutes
   schedule:
-    - cron: "*/5 * * * *"
+    - run-shell-command: "*/2 * * * *"
 
 jobs:
   run-shell-command:
