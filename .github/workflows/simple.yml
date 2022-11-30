@@ -6,17 +6,6 @@ on:
     - cron: "*/2 * * * *"
 
 jobs:
-  cron:
-    runs-on: ubuntu-latest
-    steps:
-      - name: echo a string
-        run: echo "Hello World From Cron! "
-      - name: multiline script
-        run: |
-          node -v
-          npm -v
-          
-
   run-shell-command:
     runs-on: ubuntu-latest
     steps:
