@@ -1,13 +1,16 @@
 name: shell commands
 
-on: [push]
+on:
+  # Triggers the workflow every 5 minutes
+  schedule:
+    - cron: "*/5 * * * *"
 
 jobs:
   run-shell-command:
     runs-on: ubuntu-latest
     steps:
       - name: echo a string
-        run: eccho "Hello World"
+        run: echo "Hello World From Cron! "
       - name: multiline script
         run: |
           node -v
