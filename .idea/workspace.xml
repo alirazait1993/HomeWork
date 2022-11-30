@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="549ebf72-792d-4d33-827b-b70919d546c2" name="Changes" comment="FirstCommit">
-      <change afterPath="$PROJECT_DIR$/.github/workflows/simple.yml" afterDir="false" />
+    <list default="true" id="549ebf72-792d-4d33-827b-b70919d546c2" name="Changes" comment="SecondCommit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
