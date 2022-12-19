@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="549ebf72-792d-4d33-827b-b70919d546c2" name="Changes" comment="Commit 18">
-      <change beforePath="$PROJECT_DIR$/.github/workflows/simple.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/simple.yml" afterDir="false" />
+    <list default="true" id="549ebf72-792d-4d33-827b-b70919d546c2" name="Changes" comment="Commit 19">
+      <change afterPath="$PROJECT_DIR$/.github/workflows/actions.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -152,7 +152,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671449114247</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Commit 19">
+      <created>1671449762646</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1671449762646</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -186,6 +193,7 @@
     <MESSAGE value="Commit 16" />
     <MESSAGE value="Commit 17" />
     <MESSAGE value="Commit 18" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit 18" />
+    <MESSAGE value="Commit 19" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit 19" />
   </component>
 </project>
