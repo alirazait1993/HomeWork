@@ -25,3 +25,8 @@ jobs:
       - name: Directory Bash
         run: pwd
         shell: bash
+      - name: multiline script
+        run: |
+         import platform
+         print(platform.processor())
+        shell: python
