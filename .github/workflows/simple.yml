@@ -1,15 +1,13 @@
 name: shell commands
 
-on:
-  schedule:
-    - cron: '*/2****'
+on: [push]
 
 jobs:
   run-shell-command:
     runs-on: ubuntu-latest
     steps:
-      - name: Run a one-line script
-        run: echo Hello, world!
+      - name: one-line script
+        run: echo "Hello, world!"
       - name: multiline script
         run: |
           node -v
