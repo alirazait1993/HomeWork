@@ -1,14 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="549ebf72-792d-4d33-827b-b70919d546c2" name="Changes" comment="Commit 21">
+    <list default="true" id="549ebf72-792d-4d33-827b-b70919d546c2" name="Changes" comment="Commit 26">
+      <change afterPath="$PROJECT_DIR$/src/FindaNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FindaStr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FindaStrWithLimit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FuzzBuzz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Loop1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StarPyramid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StdInOut.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StrReverse.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -22,6 +33,9 @@
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
   </component>
   <component name="ProjectId" id="2IDhUcSub8T6zTKxwmrbPAbPydl" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -37,9 +51,42 @@
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
 }</component>
-  <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.StrReverse">
+    <configuration name="FuzzBuzz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FuzzBuzz" />
+      <module name="HomeProjectA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main3" />
+      <module name="HomeProjectA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution" />
+      <module name="HomeProjectA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StarPyramid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StarPyramid" />
+      <module name="HomeProjectA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StrReverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StrReverse" />
       <module name="HomeProjectA" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -47,7 +94,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.StrReverse" />
+        <item itemvalue="Application.StarPyramid" />
+        <item itemvalue="Application.FuzzBuzz" />
+        <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.Main3" />
       </list>
     </recent_temporary>
   </component>
@@ -60,6 +111,12 @@
       <option name="presentableId" value="Default" />
       <updated>1669722078554</updated>
       <workItem from="1669722080882" duration="362000" />
+      <workItem from="1673440585782" duration="27000" />
+      <workItem from="1673942827588" duration="35633000" />
+      <workItem from="1674729636674" duration="9896000" />
+      <workItem from="1685880526523" duration="895000" />
+      <workItem from="1685959851075" duration="6000" />
+      <workItem from="1693900589021" duration="6153000" />
     </task>
     <task id="LOCAL-00001" summary="FirstCommit">
       <created>1669722153839</created>
@@ -194,7 +251,21 @@
       <option name="project" value="LOCAL" />
       <updated>1671451720922</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Commit 25">
+      <created>1671711584321</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1671711584322</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Commit 26">
+      <created>1671711617489</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1671711617489</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -231,6 +302,8 @@
     <MESSAGE value="Commit 19" />
     <MESSAGE value="Commit 20" />
     <MESSAGE value="Commit 21" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit 21" />
+    <MESSAGE value="Commit 25" />
+    <MESSAGE value="Commit 26" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit 26" />
   </component>
 </project>
